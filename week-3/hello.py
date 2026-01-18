@@ -1,3 +1,2 @@
 print(
-def add :
-return
+
